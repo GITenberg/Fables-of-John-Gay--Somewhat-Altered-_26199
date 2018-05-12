@@ -1,0 +1,32 @@
+_repo: Fables-of-John-Gay--Somewhat-Altered-_26199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gay, John
+    birthdate: 1685
+    deathdate: 1732
+    gutenberg_agent_id: '905'
+    url: http://www.gutenberg.org/2009/agents/905
+    wikipedia: http://en.wikipedia.org/wiki/John_Gay
+  - agent_name: Rose, John Benson
+    gutenberg_agent_id: '31861'
+    url: http://www.gutenberg.org/2009/agents/31861
+description: ''
+gutenberg_issued: '2008-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26199'
+  lccn: '16004693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables, English'
+- !lcsh 'Children''s poetry'
+- !lcc 'PR'
+title: Fables of John Gay (Somewhat Altered)
+url: http://www.gutenberg.org/ebooks/26199
